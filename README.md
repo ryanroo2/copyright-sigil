@@ -1,6 +1,6 @@
 # CopyrightSigil
 
-> Gem described. Boom. (It makes a copyright thingymado.)
+> Gem described. Boom. (It makes a copyright thingymado.) 
 
 ## Installation
 
